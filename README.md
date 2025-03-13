@@ -38,5 +38,18 @@ This tool is particularly useful for researchers, students, or anyone who needs 
 - 3️⃣Install requirements on termial: pip install -r requirements.txt
 
 - 4️⃣To run app locally: python Main.py
- 
+
+#🤝 Contributing
+
+We welcome contributions! Follow these steps:
+
+Fork the repository
+
+-Create a new branch (feature-branch)
+
+-Commit your changes
+
+-Push to your branch
+
+-Open a Pull Request 🎉
 

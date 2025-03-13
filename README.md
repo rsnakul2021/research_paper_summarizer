@@ -39,6 +39,8 @@ This tool is particularly useful for researchers, students, or anyone who needs 
 
 - 4️⃣To run app locally: python Main.py
 
+- 5️⃣Visit http://localhost:5000 on local browser
+
 #🤝 Contributing
 
 We welcome contributions! Follow these steps:
@@ -53,3 +55,8 @@ Fork the repository
 
 -Open a Pull Request 🎉
 
+#📬 Contact
+
+For questions, reach out to:
+📧 Email: rsnakul2021@gmail.com
+💼 LinkedIn: rsnakul2021

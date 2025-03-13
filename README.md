@@ -1,5 +1,6 @@
 # 🚀 Research Paper Summarizer
-A webpage that makes use of AI LLM calls to summarize research papers. Built using HTML and CSS
+A webpage that makes use of LLM calls to summarize research papers. Built using HTML, CSS and Python
+
 Project - a web application built with Flask and OpenAI that helps users quickly understand academic papers. Users can upload any PDF research paper through a modern, drag-and-drop interface, and the application will generate an AI-powered summary of the paper's content.
 # 📌 Features
 

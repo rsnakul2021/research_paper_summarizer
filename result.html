@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analysis Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="result-card">
+            <h1>Paper Summary</h1>
+            <div class="summary-content">
+                {{ summary }}
+            </div>
+            <a href="/" class="back-btn">Analyze Another Paper</a>
+        </div>
+    </div>
+</body>
+</html> 

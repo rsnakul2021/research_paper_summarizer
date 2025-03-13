@@ -37,9 +37,11 @@ This tool is particularly useful for researchers, students, or anyone who needs 
   
 - 3️⃣Install requirements on termial: pip install -r requirements.txt
 
-- 4️⃣To run app locally: python Main.py
+- 4️⃣Make sure to add your OPENAI_API_KEY in .env file
 
-- 5️⃣Visit http://localhost:5000 on local browser
+- 5️⃣To run app locally: python Main.py
+
+- 6️⃣Visit http://localhost:5000 on local browser
 
 #🤝 Contributing
 

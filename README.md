@@ -43,7 +43,7 @@ This tool is particularly useful for researchers, students, or anyone who needs 
 
 - 6️⃣Visit http://localhost:5000 on local browser
 
-#🤝 Contributing
+# 🤝 Contributing
 
 We welcome contributions! Follow these steps:
 
@@ -57,7 +57,7 @@ Fork the repository
 
 -Open a Pull Request 🎉
 
-#📬 Contact
+# 📬 Contact
 
 For questions, reach out to:
 📧 Email: rsnakul2021@gmail.com

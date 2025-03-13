@@ -2,8 +2,8 @@
 A webpage that makes use of AI LLM calls to summarize research papers. Built using HTML and CSS
 Project - a web application built with Flask and OpenAI that helps users quickly understand academic papers. Users can upload any PDF research paper through a modern, drag-and-drop interface, and the application will generate an AI-powered summary of the paper's content.
 # 📌 Features
--✅Simple, professional web interface
--✅Supports PDF file uploads
+*✅Simple, professional web interface
+*✅Supports PDF file uploads
 -✅Uses OpenAI's GPT-3.5 Turbo for intelligent summarization
 -✅Secure file handling with automatic cleanup
 -✅Instant summaries without storing any files permanently

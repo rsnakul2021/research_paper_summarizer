@@ -32,6 +32,8 @@ This tool is particularly useful for researchers, students, or anyone who needs 
 # 📌 Instructions to run:
 
 - 1️⃣Clone repository onto local: git clone https://github.com/rsnakul2021/research_paper_summarizer.git
+
+- Once cloned, create a folder named uploads and leave it emppty (this is used to store uploaded pdfs)
   
 - 2️⃣cd research_paper_summarizer
   
